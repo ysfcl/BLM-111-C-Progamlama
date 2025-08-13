@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746701085 source:c:\users\cilyu\desktop\projeler\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
