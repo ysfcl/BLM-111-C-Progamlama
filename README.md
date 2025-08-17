@@ -8,8 +8,8 @@ Kodlar temel C programlama konularını içermektedir:
 1. Konsola çıktı alma (printf)
 2. Klavyeden veri alma (scanf)
 3. Koşul ifadeleri (if, switch)
-4. Döngüler (for, while, do-while) <br/>
-5.Diziler <br/> 
+4. Döngüler (for, while, do-while)<br/>
+5.Diziler<br/> 
 6.Fonksiyonlar 
 
 Not: Kod sayısının fazlalığı ve bazılarının karmaşıklığı nedeniyle, her dosya için hangi soruya ait olduğu ayrı ayrı belirtilmemiştir.
