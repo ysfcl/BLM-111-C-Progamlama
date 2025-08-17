@@ -9,8 +9,8 @@ Kodlar temel C programlama konularını içermektedir:
 2. Klavyeden veri alma (scanf)
 3. Koşul ifadeleri (if, switch)
 4. Döngüler (for, while, do-while)
-5.Diziler<br/>
-6.Fonksiyonlar<br/>
+5.Diziler <br/>
+6.Fonksiyonlar <br/>
 
 Not: Kod sayısının fazlalığı ve bazılarının karmaşıklığı nedeniyle, her dosya için hangi soruya ait olduğu ayrı ayrı belirtilmemiştir.
 
